@@ -1,11 +1,11 @@
 body {
     text-align: center;
     margin: 0px;
-    font-family: "Comic Sans MS";
+    font-family: "Roboto";
 }
 
 .about {
-    background-color: yellow;
+    background-color: pink;
     padding: 0px;
 }
 
